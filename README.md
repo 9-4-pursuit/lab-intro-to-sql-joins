@@ -21,5 +21,8 @@ Rate your comfort and choose the matching activity
 ### In Canvas, answer the following questions:
 
 - Which resource did you choose to use?
-
+Work your way through SQL Bolt](https://sqlbolt.com)  
 - What are three things you learned during this lab?
+i learned that there are more than one way to submit the query -- 
+also that starting a new line helps with the syntax.
+Screenshot 2023-04-23 at 5.24.17 PM.png
