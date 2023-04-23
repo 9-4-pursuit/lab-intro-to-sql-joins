@@ -22,4 +22,12 @@ Rate your comfort and choose the matching activity
 
 - Which resource did you choose to use?
 
+SQL Zoo More JOIN operations tutorial
+
 - What are three things you learned during this lab?
+
+1. How join more than 2 tables
+2. How to select multiple columns from different tables
+3. How to substitute multiple inner joins with from where and and, etc.
+(extra)
+4. How to use subqueries
