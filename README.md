@@ -22,4 +22,8 @@ Rate your comfort and choose the matching activity
 
 - Which resource did you choose to use?
 
+I used [SQL Zoo](https://sqlzoo.net).
+
 - What are three things you learned during this lab?
+
+Learned and practiced the basic, search and join commands in SQL commands.
