@@ -1,0 +1,13 @@
+GROUP BY - this statement groups rows that have the same values into summary rows.
+
+ORDER BY - this keyword is used to sort the result-set in ascending or descending order. It sorts the records in ascending order by default. To sort the records in descending order, use the DESC keyword.
+
+CASE - this expression goes through conditions and returns a value when the first condition is met (like an if-then-else statement). So, once a condition is true, it will stop reading and return the result. If no conditions are true, it returns the value in the ELSE clause. If there is no ELSE part and no conditions are true, it returns NULL.
+
+AS - this command is used to rename a column or table with an alias.
+
+- JOIN clause is used to combine rows from two or more tables, based on a related column between them.
+(INNER) JOIN: Returns records that have matching values in both tables
+LEFT (OUTER) JOIN: Returns all records from the left table, and the matched records from the right table
+RIGHT (OUTER) JOIN: Returns all records from the right table, and the matched records from the left table
+FULL (OUTER) JOIN: Returns all records when there is a match in either left or right table
