@@ -21,5 +21,8 @@ Rate your comfort and choose the matching activity
 ### In Canvas, answer the following questions:
 
 - Which resource did you choose to use?
-
+SQL Bolt
 - What are three things you learned during this lab?
+1 - The efficiency to gather data in a flash is definitely a plus.
+2 - Straight forward language is easy to understand and process data.
+3 - Searching through the data in a table is definitely easier once the words to sort are memorized.
